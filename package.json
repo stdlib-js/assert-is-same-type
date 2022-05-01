@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/assert-is-same-type",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Test if two arguments have the same type.",
   "license": "Apache-2.0",
   "author": {
