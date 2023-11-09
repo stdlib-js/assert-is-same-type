@@ -130,6 +130,14 @@ bool = isSameType( 0.0, '0.0' );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/assert-is-same-native-class`][@stdlib/assert/is-same-native-class]</span><span class="delimiter">: </span><span class="description">test if two arguments have the same native class.</span>
+-   <span class="package-name">[`@stdlib/assert-is-same-value`][@stdlib/assert/is-same-value]</span><span class="delimiter">: </span><span class="description">test if two arguments are the same value.</span>
+-   <span class="package-name">[`@stdlib/assert-is-strict-equal`][@stdlib/assert/is-strict-equal]</span><span class="delimiter">: </span><span class="description">test if two arguments are strictly equal.</span>
+
 </section>
 
 <!-- /.related -->
@@ -204,6 +212,12 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/assert-is-same-type/main/LICENSE
 
 <!-- <related-links> -->
+
+[@stdlib/assert/is-same-native-class]: https://github.com/stdlib-js/assert-is-same-native-class
+
+[@stdlib/assert/is-same-value]: https://github.com/stdlib-js/assert-is-same-value
+
+[@stdlib/assert/is-strict-equal]: https://github.com/stdlib-js/assert-is-strict-equal
 
 <!-- </related-links> -->
 
