@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isSameType from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-same-type@esm/index.mjs';
+import isSameType from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-same-type@v0.2.1-esm/index.mjs';
 ```
 
 #### isSameType( a, b )
@@ -87,7 +87,7 @@ bool = isSameType( 0.0, '0.0' );
 <body>
 <script type="module">
 
-import isSameType from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-same-type@esm/index.mjs';
+import isSameType from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-same-type@v0.2.1-esm/index.mjs';
 
 var bool = isSameType( true, false );
 // returns true
