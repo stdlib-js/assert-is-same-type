@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import isSameType from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-same-type@deno/mod.js';
+import isSameType from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-same-type@v0.2.2-deno/mod.js';
 ```
 
 #### isSameType( a, b )
@@ -82,7 +82,7 @@ bool = isSameType( 0.0, '0.0' );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import isSameType from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-same-type@deno/mod.js';
+import isSameType from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-same-type@v0.2.2-deno/mod.js';
 
 var bool = isSameType( true, false );
 // returns true
